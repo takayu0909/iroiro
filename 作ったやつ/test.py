@@ -1,7 +1,7 @@
 import streamlit as st
 import random
 
-st.title("試作１号")
+st.title("はじめて")
 
 
 
